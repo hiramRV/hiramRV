@@ -1,21 +1,10 @@
-### Hi there 👋
+### Hola!  👋
 
-<!--
-**hiramRV/hiramRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Actualmente trabajo en la Universidad Mariano Galvez 
+- Estoy profundizanco mis conociminetos sobre programación. 
+- Me interesa colaborar en tantos proyectos como pueda. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Connect with me:
+### Mis redes:
 
 [<img align="left" alt="hiramRV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
