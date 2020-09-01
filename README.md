@@ -2,7 +2,7 @@
 
 - Actualmente trabajo en la Universidad Mariano Galvez 
 - Estoy profundizanco mis conociminetos sobre programación. 
-- Me interesa colaborar en tantos proyectos como pueda. 
+- Me interesa colaborar en tantos proyectos como pueda, ya sea de electrónica o no. 
 
 ### Mis redes:
 
