@@ -8,6 +8,7 @@
 
 [<img align="left" alt="hiramRV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hiramRV | GoodReads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
+[<img align="left" alt="hiramRV | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
 <br />
 
 ---
@@ -23,6 +24,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/
-[goodreads]: https://www.goodreads.com/user/show/45183356-stevenrv
-[perfil]: https://github.com/hiramRV
+[linkedin]:   https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/
+[goodreads]:  https://www.goodreads.com/user/show/45183356-stevenrv
+[soundcloud]: https://soundcloud.com/hiram_r
+[perfil]:     https://github.com/hiramRV
