@@ -1,7 +1,7 @@
 ## Hola!  👋
 
 - Actualmente trabajo en la Universidad Mariano Galvez 
-- Estoy profundizanco mis conocimientos sobre programación. 
+- Estoy profundizando mis conocimientos sobre programación. 
 - Me interesa colaborar en tantos proyectos como pueda, ya sea de electrónica o no. 
 
 ### Mis redes:
