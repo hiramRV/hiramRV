@@ -1,8 +1,6 @@
 ## 👋!
 
-- Actualmente trabajo en la Universidad Mariano Galvez (Guatemala). 
-- Estoy trabajando en mejorar mis conocimientos sobre programación. 
-- Me interesa colaborar en proyectos, ya sea de electrónica o no. 
+-
 
 ### Mis redes:
 
