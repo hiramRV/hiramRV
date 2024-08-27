@@ -1,17 +1,16 @@
-## 👋!
+## Hi 👋!
+- My name is Steven from Guatemala. I'm an electronic engineer currently studying a Master in Data Science in Stockholm University. 
+- Big passionate of outdoors sports and music. 
 
--
-
-### Mis redes:
+### Contact me:
 
 [<img align="left" alt="hiramRV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hiramRV | GoodReads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="hiramRV | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
 <br />
 
 ---
 
-### Languajes y Herramientas:
+### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][perfil]
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][perfil]
@@ -23,6 +22,5 @@
 ---
 
 [linkedin]:   https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/
-[goodreads]:  https://www.goodreads.com/user/show/45183356-stevenrv
 [soundcloud]: https://soundcloud.com/hiram_r
 [perfil]:     https://github.com/hiramRV
