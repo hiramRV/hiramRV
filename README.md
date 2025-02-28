@@ -16,11 +16,11 @@
 [<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][perfil]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][perfil]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][perfil]
-
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br />
 
 ---
 
 [linkedin]:   https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/
-[soundcloud]: https://soundcloud.com/hiram_r
+[soundcloud]: [https://soundcloud.com/hiram_r](https://soundcloud.com/canchegenerico)
 [perfil]:     https://github.com/hiramRV
