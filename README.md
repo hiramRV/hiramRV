@@ -1,6 +1,9 @@
-## Hi 👋!
-- My name is Steven from Guatemala. I'm an electronic engineer currently studying a Master in Data Science in Stockholm University.
-- Big passionate of outdoors sports and music. 
+## Hi/Hola 👋!
+My name is Hiram from Guatemala. I'm an electronic engineer currently studying for a Master's degree in Data Science at Stockholm University.
+Even tho I never had a developer role, I have coded small features since I started working, and I always take the opportunity to learn something new. 
+
+Currently a Data & Analytics intern at [Velory](https://velory.com/). ;
+If I'm not in front of the computer, you can find me outdoors or exploring new music. 
 
 ### Contact me:
 
@@ -22,6 +25,6 @@
 
 ---
 
-[linkedin]:   https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/
-[soundcloud]: [https://soundcloud.com/hiram_r](https://soundcloud.com/canchegenerico)
+[linkedin]:   (https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/)
+[soundcloud]: (https://soundcloud.com/canchegenerico)
 [perfil]:     https://github.com/hiramRV
