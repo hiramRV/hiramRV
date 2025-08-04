@@ -7,8 +7,8 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 
 ### Contact me:
 
-[<img align="left" alt="hiramRV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hiramRV | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
+[<img align="left" alt="hiramRV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/)
+[<img align="left" alt="hiramRV | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />](https://soundcloud.com/canchegenerico)
 <br />
 
 ---
@@ -24,7 +24,3 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 <br />
 
 ---
-
-[linkedin]:   (https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/)
-[soundcloud]: (https://soundcloud.com/canchegenerico)
-[perfil]:     https://github.com/hiramRV
