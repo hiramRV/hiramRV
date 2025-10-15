@@ -6,12 +6,12 @@ Currently a Data & Analytics intern at [Velory](https://velory.com/).
 If I'm not in front of the computer, you can find me outdoors or exploring new music. 
 
 ### GitHub Stats
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-rubio-vasquez&show_icons=true&theme=radical)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramRV&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-rubio-vasquez&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramRV&layout=compact&theme=radical)
 
 ### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steven-rubio-vasquez&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiramRV&theme=radical)
 
 ### Currently Learning
 - Bayesian Inference and Learning
@@ -60,7 +60,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 - Data & Analytics Intern at Velory
 
 ### GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=steven-rubio-vasquez&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiramRV&theme=radical)
 
 ### Random Facts
 - Amateur DJ and professional sound explorer
