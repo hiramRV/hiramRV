@@ -10,9 +10,6 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramRV&layout=compact&theme=radical)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiramRV&theme=radical)
-
 ### Currently Learning
 - Bayesian Inference and Learning
 - Risk Analysis
