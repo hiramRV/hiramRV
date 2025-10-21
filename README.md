@@ -26,6 +26,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processing-foundation&logoColor=white)
 
 ### Data Science & Analytics:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,13 +44,11 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Hardware & IoT:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processing-foundation&logoColor=white)
 
 ### Achievements & Certifications
 - Master's in Data Science (In Progress) - Stockholm University
@@ -61,9 +60,8 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 
 ### Random Facts
 - Amateur DJ and professional sound explorer
-- Currently chasing PBs (5km- 21km)
-- Bilingual (Spanish/English)
-- Coffee Barista 
+- Currently chasing running PBs (400m - 21km)
+- Coffee Barista (More a lover than a pro)
 
 ### Contact me:
 
