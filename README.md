@@ -6,9 +6,9 @@ Currently a Data & Analytics intern at [Velory](https://velory.com/).
 If I'm not in front of the computer, you can find me outdoors or exploring new music. 
 
 ### GitHub Stats
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramRV&show_icons=true&theme=radical)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramRV&show_icons=true&theme=shadow_green&show=reviews,prs_merged&hide=stars)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramRV&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramRV&layout=compact&theme=shadow_green&langs_count=10)
 
 ### Currently Learning
 - Bayesian Inference and Learning
