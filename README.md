@@ -11,12 +11,9 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramRV&layout=compact&theme=shadow_green&langs_count=10)
 
 ### Currently Learning
-- Bayesian Inference and Learning
-- Risk Analysis
-- Advanced SQL and Database Management
 - Cloud Computing basics (AWS/Azure)
-- DevOps practices (as an intern)
-- Ruby and Ruby on Rails (as an intern)
+- Ruby and Ruby on Rails
+- React and TypeScript
 
 ### Languages and Tools:
 
