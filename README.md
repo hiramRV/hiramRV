@@ -1,8 +1,8 @@
-## Hi/Hola 👋!
+## Hi/Hola!
 My name is Steven Rubio from Guatemala. I'm an electronic engineer currently studying for a Master's degree in Data Science at Stockholm University.
 I have coded features since my first job, and I always take the opportunity to learn something new. 
 
-Currently a Data & Analytics intern at [Velory](https://velory.com/).
+Currently a Junior Data Analyst at [Velory](https://velory.com/).
 If I'm not in front of the computer, you can find me outdoors or exploring new music. 
 
 ### GitHub Stats
@@ -50,7 +50,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ### Achievements & Certifications
 - Master's in Data Science (In Progress) - Stockholm University
 - Electronic Engineering Degree
-- Data & Analytics Intern at Velory
+- Junior Data Analyst
 
 ### GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiramRV&theme=radical)
