@@ -64,8 +64,8 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 
 [<img align="left" alt="stevenRV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/steven-rubio-vasquez-2431ab1a6/)
 [<img align="left" alt="stevenRV | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />](https://soundcloud.com/canchegenerico)
-[<img align="left" alt="stevenRV | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/stevenrubio)
-[<img align="left" alt="stevenRV | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:steven.rubio@example.com)
+[<img align="left" alt="stevenRV | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/hiramRV)
+[<img align="left" alt="stevenRV | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:stevenrv97@gmail.com)
 <br />
 
 ---
