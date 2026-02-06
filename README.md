@@ -16,25 +16,24 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processing-foundation&logoColor=white)
 
 ### Data Science & Analytics:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-%237E22CE.svg?style=for-the-badge&logo=mixpanel&logoColor=white)
-
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ### Development Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 
 ### Hardware & IoT:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -50,9 +49,9 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiramRV&theme=radical)
 
 ### Random Facts
-- Amateur DJ and professional sound explorer
-- Currently chasing running PBs (400m - 21km)
-- Coffee Barista (More a lover than a pro)
+- Amateur DJ and professional sound explorer. 
+- Currently chasing running PBs (400m - 21km). 
+- Very casual Coffee Barista.
 
 ### Contact me:
 
