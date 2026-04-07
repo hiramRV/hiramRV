@@ -6,9 +6,9 @@ Currently a Junior Data Analyst at [Velory](https://velory.com/).
 If I'm not in front of the computer, you can find me outdoors or exploring new music. 
 
 ### Currently Learning
-- Cloud Computing basics (AWS/Azure)
 - Ruby and Ruby on Rails
 - React and TypeScript
+- Web development and hosting
 
 ### Languages and Tools:
 
@@ -51,7 +51,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ### Random Facts
 - Amateur DJ and professional sound explorer. 
 - Currently chasing running PBs (400m - 21km). 
-- Very casual Coffee Barista.
+- Coffee Barista.
 
 ### Contact me:
 
