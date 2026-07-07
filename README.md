@@ -19,6 +19,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![Processing](https://img.shields.io/badge/Processing-0096D8?style=for-the-badge&logo=processing-foundation&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### Data Science & Analytics:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -45,16 +46,16 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 
 ### Achievements & Certifications
 - Master's in Data Science (In Progress) - Stockholm University
-- Electronic Engineering Degree
+- Electronic Engineer
 - Junior Data Analyst
 
 ### GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiramRV&theme=radical)
 
 ### Random Facts
-- Amateur DJ and professional sound explorer. 
-- Currently chasing running PBs (400m - 21km). 
-- Coffee Barista.
+- Amateur DJ and blogger. 
+- Runner (Supposedly).
+- Coffee Barista (For close friends).
 
 ### Contact me:
 
