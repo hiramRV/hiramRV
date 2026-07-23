@@ -35,6 +35,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### AI and Bots
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -54,7 +55,7 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 
 ### Random Facts
 - Amateur DJ and blogger. 
-- Runner (Supposedly).
+- Trying to become a better runner.
 - Coffee Barista (For close friends).
 
 ### Contact me:
