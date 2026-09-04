@@ -53,9 +53,6 @@ If I'm not in front of the computer, you can find me outdoors or exploring new m
 - Electronic Engineer
 - Junior Data Analyst
 
-### GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiramRV&theme=radical)
-
 ### Random Facts
 - Amateur DJ and blogger. 
 - Trying to become a better runner.
