@@ -1,15 +1,15 @@
 ## Hi/Hola!
-My name is Steven Rubio from Guatemala. I'm an electronic engineer currently studying for a Master's degree in Data Science at Stockholm University.
-I have coded features since my first job, and I always take the opportunity to learn something new. 
+My name is Steven Rubio from Guatemala. I'm an electronic engineer MSc in Data Science.
+I have been coding features since my first job, and I always take the opportunity to learn something new. 
 
 Currently a Junior Data Analyst at [Velory](https://velory.com/).
 If I'm not in front of the computer, you can find me outdoors or exploring new music. 
 
 ### Currently Learning
-- Ruby and Ruby on Rails
-- More database principles
+- Database principles
 - Event tracking infrastructure
-- Web development and hosting (Cloudflare!) 
+- Web development and hosting
+- Product development
 
 ### Languages:
 
