@@ -1,5 +1,5 @@
 ## Hi/Hola!
-My name is Steven Rubio from Guatemala. I'm an electronic engineer MSc in Data Science.
+My name is Steven Rubio from Guatemala. I'm an electronic engineer an MSc Data Science.
 I have been coding features since my first job, and I always take the opportunity to learn something new. 
 
 Currently a Junior Data Analyst at [Velory](https://velory.com/).
